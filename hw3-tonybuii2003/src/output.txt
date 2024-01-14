@@ -1,0 +1,7 @@
+Col 1 : 30
+Col 2 : 10
+Col 3 : 43
+Col 4 : 29
+Col 5 : 26
+Col 6 : 19
+Col 7 : 25
